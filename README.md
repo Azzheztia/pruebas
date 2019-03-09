@@ -1,0 +1,2 @@
+# pruebas
+Vinculación plataformas móviles
